@@ -1,10 +1,5 @@
 # Hello 👋, I'm Heecheol Kim
 ### ✨Backend developer✨
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mizisu04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mizisu04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mizisu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mizisu" height="30" width="40" /></a>
-</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizisu&show_icons=true&locale=en&layout=compact" alt="mizisu" /></p>
 <!--
 **mizisu/mizisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
